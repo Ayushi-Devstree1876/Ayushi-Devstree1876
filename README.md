@@ -4,9 +4,6 @@
 ---
 💼 Working as a **Backend Developer Intern** at [**Devstree IT India**](https://www.devstree.com/)
 - 💼 Aspiring **Backend Developer**
-- 📝 Work Profile  
-  - **GitHub:** https://github.com/YOUR_GITHUB_USERNAME  
-  - **LinkedIn:** https://linkedin.com/in/YOUR_LINKEDIN_USERNAME  
 
 - 🌱 Working with **Node, Express, Mongodb, NestJS**
 - 😎 Languages I know **Javascript, Typescript**
@@ -16,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank">
+<a href="https://linkedin.com/in/ayushitech" target="blank">
 <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" width="70" />
 </a>
 <a href="https://github.com/YOUR_GITHUB_USERNAME" target="blank">
