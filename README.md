@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/ayushitech" target="blank">
 <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" width="70" />
 </a>
-<a href="https://github.com/YOUR_GITHUB_USERNAME" target="blank">
+<a href="https://github.com/Ayushi-Devstree1876" target="blank">
 <img align="center" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" height="30" width="70" />
 </a>
 </p>
